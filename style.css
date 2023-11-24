@@ -1,0 +1,218 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+
+    }
+
+nav a{
+    text-decoration: none;
+}
+span{
+    color: #00BFA5;
+}
+.navbar{
+    padding-top: 16px;
+    
+}
+.navbar a{
+    padding-left: 16px;
+}
+.gb{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-top: 50px;
+}
+body{
+    font-family: 'roboto',sans-serif;
+}
+.pg{
+    text-align: center;
+    color: #00BFA5;
+    font-size: 30px;
+    
+}
+.flexy{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15px;
+    color: grey;
+    line-height: 2em;
+}
+.loli{
+    border-radius: 10px;
+    width: 15em;
+    height: 300px;
+    background-color:#00BFA5 ;
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
+.lola{
+    border-radius: 10px;
+    width: 15em;
+    height: 300px;
+    background-color: rgb(31, 140, 177);
+    color: antiquewhite;
+    font-size: 20px;
+
+    }
+    .lolo{
+        border-radius: 10px;
+        width: 15em;
+        height: 300px;
+        background-color: rgb(24, 37, 49);
+        color: antiquewhite;
+        font-size: 20px; 
+    }
+    .global{
+        display: flex;
+        justify-content: center;
+        gap: 35px;
+    }
+    .blog{
+        font-size: 25px;
+        color: #00BFA5;
+        display: flex;
+        justify-content: space-around;
+    }
+    .One{
+        font-size: 20px;
+        color: #00BFA5;
+        background-color: rgb(209, 232, 247) ;
+        display: flex;
+         justify-content: space-between;
+    }
+    .sow{
+         width:50% ;
+    }
+    h3{
+        color: grey;
+    }
+    h5{
+        color: grey;
+    }
+    .sarra{
+        margin-top: 30px;
+        border-radius: 10px;
+        width: 20em;
+        height: 250px;
+        background-color:snow;
+        font-size: 10px; 
+        color: #00BFA5;
+        text-align: center;
+    
+    }
+    .sah{
+        margin-top: 30px;
+        border-radius: 10px;
+        width: 20em;
+        height: 250px;
+        background-color:snow;
+        font-size: 10px; 
+        color: #00BFA5;
+        text-align: center;
+    }
+
+.Po{
+    font-size: 35px;
+}
+.fatou{
+        margin-top: 30px;
+        border-radius: 10px;
+        width: 20em;
+        height: 250px;
+        background-color:snow;
+        font-size: 10px; 
+        color: #00BFA5;
+        text-align: center;
+}
+.soda{
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 20em;
+    height: 250px;
+    background-color:snow;
+    font-size: 10px; 
+    color: #00BFA5;
+    text-align: center;
+
+}
+
+.tall{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    
+    
+}
+.Uno{
+    margin-top:  2em;
+}
+.dos{
+    margin-top: 1em;
+}
+.Pic{
+    border-radius: 4px;
+    width: 500px;
+
+}
+.do{
+    text-align: center;
+    color: #00BFA5;
+    font-size: 30px;
+    line-height: 0.5em;
+}
+.again{
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+}
+.Villes{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+
+}
+.Towns{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+
+}
+.cities{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+
+}
+.Yo{
+    margin-left:170px;
+}
+.btn{
+    background-color:rgb(39, 143, 184);
+}
+.btn:hover{
+    background-color: blue;
+}
+.bb{
+    display: flex;
+}
+.fin{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(39, 37, 37);
+}
+footer{
+    font-size: 15px;
+    color: #00BFA5;
+    text-align: center;
+}
+
+.bardenav{
+    display: flex;
+}
+.toto{
+    justify-content: end;
+}
